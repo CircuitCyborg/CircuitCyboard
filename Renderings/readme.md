@@ -1,4 +1,4 @@
-Renderings of the CircuitCyboard 153% Keybaord![Screenshot 2025-06-09 145858](https://github.com/user-attachments/assets/83b1817b-e17d-4225-93b9-c6336a133e8f)
+Renderings of the CircuitCyboard 153% Keybaord
 ![Screenshot 2025-06-08 224229](https://github.com/user-attachments/assets/a5fe8e20-ee61-4466-a32b-88bbbdfce72b)
 ![Screenshot 2025-06-08 224212](https://github.com/user-attachments/assets/21e61a08-0d62-44e6-9f4e-c3cf653ddae1)
 ![Screenshot 2025-06-08 224158](https://github.com/user-attachments/assets/a7141b3b-e2cb-4d05-8156-13d39fc3d3b8)
@@ -17,3 +17,4 @@ Renderings of the CircuitCyboard 153% Keybaord![Screenshot 2025-06-09 145858](ht
 ![Screenshot 2025-06-08 222316](https://github.com/user-attachments/assets/f57568f9-47dd-4922-a374-9c2f592a36c6)
 ![Screenshot 2025-06-08 222219](https://github.com/user-attachments/assets/757af213-6e8b-440a-808a-35503470f98a)
 ![Screenshot 2025-06-09 145911](https://github.com/user-attachments/assets/c5eab535-3da3-4c01-b74c-640ac48d7b55)
+![Screenshot 2025-06-09 145858](https://github.com/user-attachments/assets/83b1817b-e17d-4225-93b9-c6336a133e8f)
