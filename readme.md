@@ -1,4 +1,9 @@
-This is the CircuitCyboard; A 153% keyboard made for video editors or anyone who is completely insane. I decided to design this board when I started editing videos for my robotics team. It took me approximately 47 hours to complete due to having to essentially complete two keyboards to complete a single set. Here's one of my mid-project updates:
+This is the CircuitCyboard; A 153% keyboard made for video editors or anyone who is completely insane. I decided to design this board when I started editing videos for my robotics team. It took me approximately 47 hours to complete due to having to essentially complete two keyboards to complete a single set. 
+
+HOW LONG DID THIS KEYBOARD TAKE TO DESIGN?
+This keyboard took about 47 hours to design due to being on an FTC team that made it to the World Championship along with the rest of my school and what other "life" I have.
+
+Here's one of my mid-project updates:
 
 March 4, 2025
 It's been a while since I have really had enough time to make some progress on my HackBoard. I was able to find some time this afternoon to nearly finish the project. Here's a little overview of where I'm at, but first for those who didn't see my original plans a few months ago: I do a decent amount of video editing for my FTC team and some personal projects. Back in October during HackpadV1, I created a little 3x3 macropad with 2 rotary encoders. It has sped up my editing by probably 35%. I really like efficiency, so I started looking into the BlackMagicDesign editor keyboard.
