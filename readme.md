@@ -21,7 +21,6 @@ Here is what the original design looked like:
 ![image](https://github.com/user-attachments/assets/360297f8-e9a7-49f5-bab6-59e192d0c877)
 ![image](https://github.com/user-attachments/assets/4988ab8b-f849-49e7-b123-b960509d991b)
 ![image](https://github.com/user-attachments/assets/8a1756d9-0ac4-4bd1-84a9-3e8521226acb)
-<img width="563" height="405" alt="Screenshot 2025-10-09 140726" src="https://github.com/user-attachments/assets/d84b7837-8b61-42d7-bdd7-8734d7bc0986" />
 
 
 
@@ -36,12 +35,12 @@ Here is what the final design looks like:
 ![Screenshot 2025-06-08 222453](https://github.com/user-attachments/assets/4f923500-1848-4de1-bc8f-d5b27e6c8a19)
 ![Screenshot 2025-06-08 222414](https://github.com/user-attachments/assets/280843d4-057b-4a95-91af-f6d8b7619b76)
 <img width="812" height="458" alt="Screenshot 2025-10-09 103649" src="https://github.com/user-attachments/assets/ac71b261-f5b6-4f14-aee3-891b64e1259c" />
-<img width="679" height="430" alt="Screenshot 2025-10-09 103638" src="https://github.com/user-attachments/assets/917a39be-1979-4cfd-8fbd-c1f70f474e97" />
-
+<img width="563" height="405" alt="Screenshot 2025-10-09 140726" src="https://github.com/user-attachments/assets/d84b7837-8b61-42d7-bdd7-8734d7bc0986" />
 
 I have now spent the last few days putting together all of the files and getting pricing down and finalizing part selections for the BOM and to create my Repo. Next up is the info for the firmware.
 
 Firmware was kept simple for this because although editing the firmware on my macropad has been relatively simple, I want an even simpler way to edit the firmware. Introducing POG, a firmware editor/writer for keyboards based off of KMK. I have not tested it yet, but the idea is that anyone can install this firmware on it, then install POG and easily be able to edit the firmware on it. I'll update once I have the time to test this theory.
+
 
 
 
