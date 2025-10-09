@@ -34,12 +34,15 @@ Here is what the final design looks like:
 ![Screenshot 2025-06-08 222219](https://github.com/user-attachments/assets/0ae69ea6-9b46-4161-81f8-ff17e50ab264)
 ![Screenshot 2025-06-08 222453](https://github.com/user-attachments/assets/4f923500-1848-4de1-bc8f-d5b27e6c8a19)
 ![Screenshot 2025-06-08 222414](https://github.com/user-attachments/assets/280843d4-057b-4a95-91af-f6d8b7619b76)
+<img width="1590" height="537" alt="Screenshot 2025-10-09 075713" src="https://github.com/user-attachments/assets/6b8e9f3c-5d40-449e-933b-059916e684ec" />
+<img width="1054" height="516" alt="Screenshot 2025-10-09 075613" src="https://github.com/user-attachments/assets/57e34033-438b-4b99-9f80-1690de445010" />
 <img width="812" height="458" alt="Screenshot 2025-10-09 103649" src="https://github.com/user-attachments/assets/ac71b261-f5b6-4f14-aee3-891b64e1259c" />
 <img width="563" height="405" alt="Screenshot 2025-10-09 140726" src="https://github.com/user-attachments/assets/d84b7837-8b61-42d7-bdd7-8734d7bc0986" />
 
 I have now spent the last few days putting together all of the files and getting pricing down and finalizing part selections for the BOM and to create my Repo. Next up is the info for the firmware.
 
 Firmware was kept simple for this because although editing the firmware on my macropad has been relatively simple, I want an even simpler way to edit the firmware. Introducing POG, a firmware editor/writer for keyboards based off of KMK. I have not tested it yet, but the idea is that anyone can install this firmware on it, then install POG and easily be able to edit the firmware on it. I'll update once I have the time to test this theory.
+
 
 
 
