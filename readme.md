@@ -1,3 +1,5 @@
+View the assembled board in 3D at https://cad.onshape.com/documents/32a6354c6a97eb286ee4aa4f/w/d549b488f42d2f5685834235/e/41353fde7b36264490246d84
+
 <img width="1340" height="523" alt="Screenshot 2025-10-09 103625" src="https://github.com/user-attachments/assets/ae4bae84-dea4-41b2-8003-cc5e322ce57d" />
 
 This is the CircuitCyboard; A 153% keyboard made for video editors or anyone who is completely insane. I decided to design this board when I started editing videos for my robotics team. It took me approximately 47 hours to complete due to having to essentially complete two keyboards to complete a single set. 
@@ -42,6 +44,7 @@ Here is what the final design looks like:
 I have now spent the last few days putting together all of the files and getting pricing down and finalizing part selections for the BOM and to create my Repo. Next up is the info for the firmware.
 
 Firmware was kept simple for this because although editing the firmware on my macropad has been relatively simple, I want an even simpler way to edit the firmware. Introducing POG, a firmware editor/writer for keyboards based off of KMK. I have not tested it yet, but the idea is that anyone can install this firmware on it, then install POG and easily be able to edit the firmware on it. I'll update once I have the time to test this theory.
+
 
 
 
