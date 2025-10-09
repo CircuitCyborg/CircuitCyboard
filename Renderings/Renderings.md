@@ -25,3 +25,5 @@ Renderings of the CircuitCyboard 153% Keybaord
 <img width="812" height="458" alt="Screenshot 2025-10-09 103649" src="https://github.com/user-attachments/assets/f4d8b769-1dc1-4b9b-beb3-eb2c0ae5f263" />
 <img width="679" height="430" alt="Screenshot 2025-10-09 103638" src="https://github.com/user-attachments/assets/b7354199-74a1-42eb-90e3-93706d269dab" />
 <img width="1340" height="523" alt="Screenshot 2025-10-09 103625" src="https://github.com/user-attachments/assets/5ac47b28-9ed2-47e4-9a08-1eeead292dd8" />
+<img width="1590" height="537" alt="Screenshot 2025-10-09 075713" src="https://github.com/user-attachments/assets/50c622bc-6852-4749-ae54-472cc09fa8b7" />
+<img width="1054" height="516" alt="Screenshot 2025-10-09 075613" src="https://github.com/user-attachments/assets/a3da1665-16fc-4446-87c7-b550b3440f42" />
