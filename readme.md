@@ -1,6 +1,6 @@
 View the assembled board in 3D at https://cad.onshape.com/documents/32a6354c6a97eb286ee4aa4f/w/d549b488f42d2f5685834235/e/41353fde7b36264490246d84
 
-<img width="1340" height="523" alt="Screenshot 2025-10-09 103625" src="https://github.com/user-attachments/assets/ae4bae84-dea4-41b2-8003-cc5e322ce57d" />
+<img width="1151" height="472" alt="Screenshot 2026-02-24 123516" src="https://github.com/user-attachments/assets/740e0e22-fb8e-4ae3-96ba-7a91bdfb23fd" />
 
 This is the CircuitCyboard; A 153% keyboard made for video editors or anyone who is completely insane. I decided to design this board when I started editing videos for my robotics team. It took me approximately 47 hours to complete due to having to essentially complete two keyboards to complete a single set. 
 
@@ -31,7 +31,7 @@ Here is another update now that I am getting ready to submit:
 June 2, 2025
 It's been another 3 months since my last update. I have almost completely redone the whole keyboard. The only things that are still the same are the base keys and their positions, and the basic idea of having a mega split using two Orpheus Picos. Since the last update I decided that instead of using a completely 3D Printed case, I wanted an acrylic top. I then redesigned the case after redesigning the PCB so that the MCU on the left half was vertical instead of horizontal so that the chord would plug in to the top instead of the side. I then added three more rotary encoders to the left half. Next I designed the case to have an acrylic top. After some thought, I am considering cutting the base of the case out of wood after I confirm it fits with a 3D Printed version. Assuming it does, I will find a nice piece of wood to cut it out of and use my robotics team's CNC router to cut it out. Next I started sourcing parts for my board. At this point I still haven't ordered parts yet, but I am trying my best to not order any parts directly from AliExpress because I do not trust that site or any of its sibling sites. Do to this, parts may cost a little more for me, but occasionally, I can find better quality parts as well from Amazon over what can be found at AliExpress. I think that's all for this update. Signing off for now, Circuitcyborg.
 
-Here is what the final design looks like:
+Here is what the semi-final design looks like:
 
 ![Screenshot 2025-06-08 222219](https://github.com/user-attachments/assets/0ae69ea6-9b46-4161-81f8-ff17e50ab264)
 ![Screenshot 2025-06-08 222453](https://github.com/user-attachments/assets/4f923500-1848-4de1-bc8f-d5b27e6c8a19)
@@ -49,7 +49,8 @@ Here is what the final design looks like:
 
 I have now spent the last few days putting together all of the files and getting pricing down and finalizing part selections for the BOM and to create my Repo. Next up is the info for the firmware.
 
-Firmware was kept simple for this because although editing the firmware on my macropad has been relatively simple, I want an even simpler way to edit the firmware. Introducing POG, a firmware editor/writer for keyboards based off of KMK. I have not tested it yet, but the idea is that anyone can install this firmware on it, then install POG and easily be able to edit the firmware on it. I'll update once I have the time to test this theory.
+Firmware was kept simple for this because although editing the firmware on my macropad has been relatively simple, I want an even simpler way to edit the firmware for this. Introducing POG, a firmware editor/writer for keyboards based off of KMK. All you need to do is install POG on your device and install the firmware I have provided onto your Raspberry Pi's, then you will be able to edit the keyboard functions from within POG.
+
 
 
 
