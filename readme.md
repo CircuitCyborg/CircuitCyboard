@@ -1,4 +1,4 @@
-View the assembled board in 3D and download the most up to date files including the fully printable version at https://cad.onshape.com/documents/32a6354c6a97eb286ee4aa4f/w/d549b488f42d2f5685834235/e/41353fde7b36264490246d84
+View the assembled board in 3D and download the most up to date files including the fully printable version at https://cad.onshape.com/documents/f318f11670ed4c30b1b2f4fc/w/6b6f3f7c04ff2543b1a0db1e/e/09f2c27e2ae763cc1f32f98d?renderMode=0&uiState=699df778c7824a048da2e4bc
 
 <img width="1151" height="472" alt="Screenshot 2026-02-24 123516" src="https://github.com/user-attachments/assets/740e0e22-fb8e-4ae3-96ba-7a91bdfb23fd" />
 
@@ -50,6 +50,7 @@ Here is what the semi-final design looks like:
 I have now spent the last few days putting together all of the files and getting pricing down and finalizing part selections for the BOM and to create my Repo. Next up is the info for the firmware.
 
 Firmware was kept simple for this because although editing the firmware on my macropad has been relatively simple, I want an even simpler way to edit the firmware for this. Introducing POG, a firmware editor/writer for keyboards based off of KMK. All you need to do is install POG on your device and install the firmware I have provided onto your Raspberry Pi's, then you will be able to edit the keyboard functions from within POG.
+
 
 
 
